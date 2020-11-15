@@ -28,9 +28,7 @@ This section describes how to use the included webpage to interact with the smar
 
 The webpage might not work on some versions of Chrome based browsers. For testing, Mozilla Firefox v82 was used.
 
-File storage as such is not the aim of this project. Regarding Infura's IPFS, a detailed tutorial can be found here:
-
-https://blog.infura.io/part-2-getting-started-with-ipfs-on-infura/?&utm_source=infurablog&utm_medium=newsletter&utm_campaign=monthly_update&utm_content=september_update
+File storage as such is not the aim of this project. Regarding Infura's IPFS, a detailed tutorial can be found [here](https://blog.infura.io/part-2-getting-started-with-ipfs-on-infura/?&utm_source=infurablog&utm_medium=newsletter&utm_campaign=monthly_update&utm_content=september_update).
 
 #### 1. From the repository, download and place in one folder:
 

@@ -1,6 +1,6 @@
 # Collectible
 
-This is Project 2 of IvanOnTech Academy journey. It is a smart contract which can be used to mint data as NFT token.
+This is Project 2 of IvanOnTech Academy journey. It is a smart contract which can be used to mint data as NFT token. To achieve this, the contract inherits from [OpenZeppelin ERC721 contract](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721.sol).
 
 The smart contract is deployed on Ropsten testnet and is free to use. If there was a need to monetize, the _mint()_ function could be _payable_, so a pre-defined amount of payment would be requested.
 

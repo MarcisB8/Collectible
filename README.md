@@ -92,4 +92,4 @@ In order to retrieve the minted data, a token ID is needed, and this ID can be f
 By deploying the same technology on a non-transparent blockchain, more use cases could be enabled:
 
 * Distribution or transfer of copyrighted digital content, access to which should be restricted to paid customers. It is one of the goals of [Tari project](https://www.tari.com/).
-* Cross-chain transfers. By storing private keys or mnemonic seeds in a secure and decentralized way, it would be possible to take any digital asset and move it to the blockchain of the smart contract. [Emblem Vault](https://circuitsofvalue.com/) is planning to achieve this through Secret Network.
+* Cross-chain transfers. By storing private keys or mnemonic seeds in a secure and decentralized way, it would be possible to take any digital asset and move it to the blockchain of the smart contract. [Emblem Vault](https://circuitsofvalue.com/) is planning to achieve this through [Secret Network](https://scrt.network/).

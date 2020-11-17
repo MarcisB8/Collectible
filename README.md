@@ -17,7 +17,9 @@ It is a duty of the minter to ensure that the data behind the minted link will b
 
 ## How to use
 
-This section describes how to use the included webpage to interact with the smart contract.
+Navigate to https://ipfs.infura.io/ipfs/QmcFBRXCXW5XcVCsGJdSmqaSeMDMq13RPXzpmfLgGbCjwT and follow the instructions on screen.
+
+Further section describes how to launch the webpage if it is no longer hosted on IPFS, or if you want to play with it and modify.
 
 #### Requirements
 

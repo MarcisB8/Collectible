@@ -17,8 +17,6 @@ It is a duty of the minter to ensure that the data behind the minted link will b
 
 ## How to use
 
-Navigate to https://ipfs.infura.io/ipfs/QmcFBRXCXW5XcVCsGJdSmqaSeMDMq13RPXzpmfLgGbCjwT and follow the instructions on screen.
-
 Further section describes how to launch the webpage if it is no longer hosted on IPFS, or if you want to play with it and modify.
 
 #### Requirements
@@ -78,6 +76,9 @@ It will appear once You confirm the transaction.
 Line 7, "Tokens transfered".
 
 #### 7. Type the ID in VIEW field and enjoy Your token!
+---
+
+At the time of writing, the page is also hosted on Infura's IPFS, so You can just navigate to https://ipfs.infura.io/ipfs/QmcFBRXCXW5XcVCsGJdSmqaSeMDMq13RPXzpmfLgGbCjwT and follow the instructions on screen. If it is still there, the previous steps were not neccessary. But hey, that's how you learn!
 
 ---
 ## Improvement points

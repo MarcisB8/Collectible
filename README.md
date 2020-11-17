@@ -17,7 +17,7 @@ It is a duty of the minter to ensure that the data behind the minted link will b
 
 ## How to use
 
-Further section describes how to launch the included webpage to interact with the smart contract.
+This section describes how to launch the included webpage and interact with the smart contract.
 
 #### Requirements
 
